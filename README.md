@@ -1,4 +1,4 @@
-# predict-bitcoin
+# Bitcoin-Prediction
 
 ## CryptoCurrency prediction using Deep Recurrent Neural Networks
 
@@ -22,18 +22,18 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 ## Code
-The source code is divided into multiple sections following the machine learning design pattern of : Data Exploration, Training, Testing and Hyperparameter Optimization. You can view the precompiled version of the notebook or you can rerun the entire notebook. The datasets are made available on public S3 Buckets. Running the notebook, will automatically download the datasets for you.
+The source code is divided into multiple sections following the machine learning design pattern of : Data Exploration, Training, Testing and Hyperparameter Optimization. You can view the precompiled version of the notebook or you can rerun the entire notebook.
 
 ## Run
 In a terminal or command window,run one of the following commands:
 
-jupyter notebook BitcoinPredictionRNN.ipynb
+jupyter notebook BitcoinPrediction.ipynb
 
 This will open the Jupyter Notebook software and project file in your browser.
 
 ## Data
-BitCoin Price Data from Jan 2015- August 2018. The prices are as per coinbase cryptoexchange. There were many missing values and forward strategy was used to fill these missing values.
+BitCoin Price Data from August 2019 - July 2020. The prices are as per coinbase cryptoexchange. There were many missing values and forward strategy was used to fill these missing values.
 
-### Features BitCoin Price Data from August 2019 - July 2020
+**Features** BitCoin Price Data from August 2019 - July 2020
  
-### Target Variable Close Price: Close price of Bitcoin for each day
+**Target** Variable Close Price: Close price of Bitcoin for each day
