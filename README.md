@@ -6,7 +6,7 @@ This repository contains various Machine learning models used in industry to pre
 
 - Fundamental analysis of the bitcoin price using Yahoo Finance
 - Recurrent Neural Networks / Long Short Term Memory Networks
-- Each model is compared against each other to highlight pros and cons of each model.
+- Scraper for Bitcoin data using CryptoCompare API
 
 Install
 This project requires Python and the following Python libraries installed:
@@ -21,7 +21,7 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 ## Code
-The source code is divided into multiple sections following the machine learning design pattern of : Data Exploration, Training, and Testing and. You can view the precompiled version of the notebook or rerun the entire notebook.
+The source code is divided into multiple sections following the machine learning design pattern of : Data Exploration, Training, and Testing. You can view the precompiled version of the notebook or rerun the entire notebook.
 
 ## Run
 In a terminal or command window, run one of the following commands:
