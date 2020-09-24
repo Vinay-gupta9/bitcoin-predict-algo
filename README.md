@@ -35,6 +35,6 @@ BitCoin Price Data from August 2019 - July 2020. The prices are as per coinbase 
 
 **Target** Variable Close Price: Close price of Bitcoin for each day
 
-**Features** BitCoin Price Data from August 2019 - July 2020
+**Features** Bitcoin Price Data from August 2019 - July 2020
  
 
