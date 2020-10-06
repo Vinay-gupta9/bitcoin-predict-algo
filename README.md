@@ -30,7 +30,7 @@ jupyter notebook BitcoinPrediction.ipynb
 This will open the Jupyter Notebook software and project file in the browser.
 
 ## Data
-BitCoin Price Data from August 2019 - July 2020. The prices are based on coinbase cryptoexchange. Some values were missing and a forward strategy was used to fill the said missing values.
+Bitcoin Price Data from August 2019 - July 2020. The prices are based on coinbase cryptoexchange. Some values were missing and a forward strategy was used to fill the said missing values.
 
 **Features** Bitcoin Price Data from August 2019 - July 2020
 
