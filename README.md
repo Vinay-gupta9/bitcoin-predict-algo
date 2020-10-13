@@ -1,6 +1,6 @@
 # Bitcoin Price Prediction
 
-## Cryptocurrency Prediction using Deep Recurrent Neural Networks
+### Cryptocurrency Prediction using Deep Recurrent Neural Networks
 
 This repository contains various Machine learning models used in industry to predict stock prices and cryptocurrency in finance industry.
 
