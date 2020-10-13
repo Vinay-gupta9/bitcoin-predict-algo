@@ -1,4 +1,4 @@
-# Bitcoin Prediction Algorithm
+# Bitcoin Price Prediction
 
 ## CryptoCurrency prediction using Deep Recurrent Neural Networks
 
