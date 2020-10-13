@@ -8,7 +8,7 @@ This repository contains various Machine learning models used in industry to pre
 - Recurrent Neural Networks / Long Short Term Memory Networks
 - Scraper for Bitcoin data using the CryptoCompare API
 
-Install
+## Install
 This project requires Python and the following Python libraries installed:
 
 - NumPy
