@@ -20,14 +20,14 @@ This project requires Python and the following Python libraries installed:
 You will also need to install appropriate software to execute Jupyter Notebook.
 
 ### Run
-In a terminal or command window, run one of the following commands:
+In a terminal or command window, run the following command:
 
 jupyter notebook BitcoinPrediction.ipynb
 
 This will open the Jupyter Notebook software and project file in the browser.
 
 ### Data
-Bitcoin Price Data from August 2019 - July 2020. The prices are based on coinbase cryptoexchange. Some values were missing and techniques were used to fill the said missing values.
+Bitcoin Price Data from August 2019 - July 2020. The prices are based on Coinbase Crypto exchange.
 
 **Features** Bitcoin Price Data from August 2019 - July 2020
 
