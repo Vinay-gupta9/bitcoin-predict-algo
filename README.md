@@ -4,9 +4,9 @@
 
 This repository contains a machine learning model used in the finance industries to predict stock prices and cryptocurrency.
 
-- Fundamental analysis of Bitcoin prices using Yahoo Finance
 - Recurrent Neural Networks / Long Short Term Memory Networks
 - Scraper for Bitcoin data using the CryptoCompare API
+- Predictive modeling of Bitcoin prices using Yahoo Finance
 
 ### Install
 This project requires Python and the following Python libraries installed:
@@ -17,10 +17,7 @@ This project requires Python and the following Python libraries installed:
 - Sklearn
 - Keras
 
-You will also need to have software installed to run and execute a Jupyter Notebook.
-
-### Code
-The source code is divided into multiple sections following the machine learning design pattern of data exploration, training, and testing. The precompiled version of the notebook can be viewed, or rerun the entire notebook.
+You will also need to install appropriate software to execute Jupyter Notebook.
 
 ### Run
 In a terminal or command window, run one of the following commands:
@@ -36,4 +33,3 @@ Bitcoin Price Data from August 2019 - July 2020. The prices are based on coinbas
 
 **Target** Variable Close Price: Close price of Bitcoin for each day
  
-
