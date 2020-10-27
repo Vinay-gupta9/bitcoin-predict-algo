@@ -11,7 +11,6 @@ This repository contains a machine learning model used in the finance industries
 ### Install
 This project requires Python and the following Python libraries installed:
 
-- NumPy
 - Pandas
 - Matplotlib
 - Sklearn
